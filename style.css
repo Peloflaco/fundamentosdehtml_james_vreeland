@@ -1,0 +1,15 @@
+body {
+	background-color:;
+}
+#mynavigation{
+	color: blue;
+}
+a{
+	color: blue;
+}
+a:hover{
+	color: green;
+}
+#mititulo{
+	color: green;
+}
